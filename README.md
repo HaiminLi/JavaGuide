@@ -1,5 +1,7 @@
 点击关注[公众号](#公众号)及时获取笔主最新更新文章，并可免费领取本文档配套的《Java面试突击》以及Java工程师必备学习资源。
 
+[推荐一下：阿里云高性能服务器，1核1g最低89，不限性能。](https://www.aliyun.com/minisite/goods?userCode=hf47liqn)
+
 少部分原创文章更新在了知识星球，关于我为什么要弄知识星球，请看这里：**[犹豫了很久，还是做了一个很久没敢做的事情](https://javaguide.cn/2019/01/02/chat/%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BE%88%E4%B9%85%E6%B2%A1%E6%95%A2%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85/)** ，优惠卷地址：[https://t.zsxq.com/iIqZBUR](https://t.zsxq.com/iIqZBUR) 。
 
 <p align="center">
@@ -19,12 +21,9 @@
 
 <h3 align="center">Sponsor</h3>
 <p align="center">
-<a  href="https://url.163.com/hXm">
-<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/WechatIMG1.png"width="" style="margin: 0 auto;"/>
-</a>
-<a  href="http://mp.weixin.qq.com/s?__biz=MjM5MTE1NTQ4Mg==&mid=502249586&idx=1&sn=6384cb5b150b8e2a1c71715d6e4ea777&chksm=3ea2cc0709d54511aaa36b6f6d626219ece05295f80fad2c8e5df877345698b7eb92e1f454b3#rd">
-<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/WechatIMG24.jpeg"  style=" margin: 0 auto;"/>
-</a>
+<a  href="https://mp.weixin.qq.com/s/li9_YXNVxan6Qgt3Q9FYqA">
+<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/WechatIMG1.png" style="margin: 0 auto;width:400px"/>
+</a >
 </p>
 
 推荐使用  https://snailclimb.gitee.io/javaguide 在线阅读，在线阅读内容本仓库同步一致。这种方式阅读的优势在于：阅读体验会更好。
@@ -50,7 +49,7 @@
     - [Redis](#redis)
     - [数据库扩展](#数据库扩展)
 - [系统设计](#系统设计)
-    - [常用框架(Spring,SpringBoot)](#常用框架)
+    - [常用框架(Spring,SpringBoot,MyBatis)](#常用框架)
     - [数据通信/中间件(消息队列、RPC ... )](#数据通信中间件)
     - [权限认证](#权限认证)
     - [分布式 & 微服务](#分布式--微服务)
@@ -129,6 +128,7 @@
 * [六 类加载器](docs/java/jvm/类加载器.md)
 * **[【待完成】八 最重要的 JVM 参数指南（翻译完善了一半）](docs/java/jvm/最重要的JVM参数指南.md)**
 * [九 JVM 配置常用参数和常用 GC 调优策略](docs/java/jvm/GC调优参数.md)
+* **[【加餐】大白话带你认识JVM](docs/java/jvm/[加餐]大白话带你认识JVM.md)**
 
 ### I/O
 
@@ -213,6 +213,10 @@
 
 - **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
 
+#### MyBatis
+
+- [MyBatis常见面试题总结](docs/system-design/framework/mybatis/mybatis-interview.md)
+
 ### 数据通信/中间件
 
 - [数据通信(RESTful、RPC、消息队列)相关知识点总结](docs/system-design/data-communication/summary.md)
@@ -240,6 +244,10 @@
 ### 分布式 & 微服务
 
 - [分布式应该学什么](docs/system-design/website-architecture/分布式.md)
+
+#### Spring Cloud
+
+- [ 大白话入门 Spring Cloud](docs/system-design/micro-service/spring-cloud.md)
 
 #### API 网关
 
@@ -314,6 +322,8 @@
 - [Java学习路线和方法推荐](docs/questions/java-learning-path-and-methods.md)
 - [Java培训四个月能学会吗？](docs/questions/java-training-4-month.md)
 - [新手学习Java，有哪些Java相关的博客，专栏，和技术学习网站推荐？](docs/questions/java-learning-website-blog.md)
+- [Java 还是大数据，你需要了解这些东西！](docs/questions/java-big-data)
+- [Java 后台开发/大数据？你需要了解这些东西！](https://articles.zsxq.com/id_wto1iwd5g72o.html)（知识星球）
 
 ## 工具
 
